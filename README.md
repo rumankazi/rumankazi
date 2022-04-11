@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rumankazi
-- 👀 I’m interested in controlling actuators and obtain sensor data using microcontrollers
-- I am fascinated by the world of robotics and the amount of signals around us.
-- 🌱 I’m currently doing my Master of Science in Electrical Engineering (Track: Signals & Systems)
+- Everyday you learn something new; observe, comprehend, appreciate and show patience. 
 - 📫 Reach me at : kaziruman@gmail.com
 
 <!---
